@@ -13,7 +13,4 @@ This is a computer program implementing a neural network that learns to recogniz
 
 Here is the working demo of the program.
 
-<video width="500" controls>
-  <source src="https://github.com/Vasu7052/Handwritten-Letter-Recognition/blob/master/working_video.mp4" type="video/mp4">
-  Your browser does not support HTML5 video.
-</video>
+![Working Project](https://github.com/Vasu7052/Handwritten-Letter-Recognition/blob/master/working_video.gif)
