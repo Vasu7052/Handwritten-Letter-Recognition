@@ -1,0 +1,6 @@
+dataset.csv
+model.json
+model.h5
+predicted.png
+letter_prediction_with_sklearn.py
+letter_prediction_with_cnn.py
